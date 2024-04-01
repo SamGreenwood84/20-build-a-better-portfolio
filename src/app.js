@@ -6,6 +6,7 @@ import ContactForm from './components/contactForm/contactForm'; // Import Contac
 import Footer from './components/footer/footer'; // Import Footer component
 import Header from './components/header/header'; // Import Header component
 import Portfolio from './components/portfolio/portfolio'; // Import Portfolio component
+import Resume from './resume/SamanthaGreenwoodResume'; // Import Resume component
 
 const projects = [
   {
@@ -33,7 +34,7 @@ const App = () => {
       <Portfolio projects={projects} />
       <Contact />
       <ContactForm />
-      {/* Render other sections/components here */}
+      <Resume />
       <Footer />
     </div>
   );
