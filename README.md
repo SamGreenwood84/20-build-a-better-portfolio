@@ -84,6 +84,7 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 -Netlify for Deployment
 -REACT
 -Coolors
+-Bootstrap
 -freecodecamp.org-[Video Walkthrough Link](freecodecamp.org/news/build-portfolio-website-react/)
 
 
