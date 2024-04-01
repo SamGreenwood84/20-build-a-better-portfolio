@@ -1,4 +1,22 @@
-User Story
+# kaleidoCraft-portfolio
+
+# Description
+
+20-React Challenge: React Portfolio
+
+- [Demo](#demo)
+- [User Story](#user-story)
+- [Acceptance Criteria](#acceptance-criteria)
+- [Built-With](#built-with)
+- [Collaboration](#collaboration)
+- [Deployment](#deployment)
+- [License](#license)
+
+# Demo
+
+Demo GIF or screenshot here
+
+# User Story
 
 AS AN employer looking for candidates with experience building single-page applications
 
@@ -6,7 +24,7 @@ I WANT to view a potential employee's deployed React portfolio of work samples
 
 SO THAT I can assess whether they're a good candidate for an open position
 
-Acceptance Criteria
+# Acceptance Criteria
 
 GIVEN a single-page application portfolio for a web developer
 
@@ -51,6 +69,37 @@ WHEN I enter text into the email address field
 THEN I receive a notification if I have entered an invalid email address
 
 WHEN I am presented with the Resume section
+
 THEN I see a link to a downloadable resume and a list of the developer’s proficiencies
+
 WHEN I view the footer
+
 THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter) 
+
+
+# Built-With
+
+-Resources from Bootcamp Spot-Module 20-REACT 
+-Deploymnet Instructions-27-Evr_Git-Deploy
+-Netlify for Deployment
+-REACT
+-Coolors
+-freecodecamp.org-[Video Walkthrough Link](freecodecamp.org/news/build-portfolio-website-react/)
+
+
+# Collaboration
+
+-My classmates and instructors 
+-This is NOT an open source project
+
+# Deployment
+
+ Deployed Application Link-[Click Here!](https://)
+
+ Git Hub Repo Link-[Click Here!](https://)
+
+# License
+
+MIT License
+
+Copyright (c) 2024 SamGreenwood
