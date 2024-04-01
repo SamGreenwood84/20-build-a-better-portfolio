@@ -82,9 +82,8 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 -Resources from Bootcamp Spot-Module 20-REACT 
 -Deploymnet Instructions-27-Evr_Git-Deploy
 -Netlify for Deployment
--REACT
+-REACT, bootstrap, Node.js
 -Coolors
--Bootstrap
 -freecodecamp.org-[Video Walkthrough Link](freecodecamp.org/news/build-portfolio-website-react/)
 
 
@@ -104,3 +103,23 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 MIT License
 
 Copyright (c) 2024 SamGreenwood
+
+# File Structure Explanation
+
+Explanation:
+
+components: This directory contains all the components of your portfolio.
+
+Header: Contains the header component with navigation.
+Footer: Contains the footer component.
+AboutMe: Contains the component for the "About Me" section.
+Portfolio: Contains the component for the "Portfolio" section along with individual Project components.
+Contact: Contains the component for the "Contact" section.
+Resume: Contains the component for the "Resume" section.
+App.js: Main component where all other components are imported and rendered.
+
+index.js: Entry point of the React application.
+
+App.css: Styles specific to the App component.
+
+README.md: A high-quality README file describing the project, including a description, screenshots, and a link to the deployed application.
