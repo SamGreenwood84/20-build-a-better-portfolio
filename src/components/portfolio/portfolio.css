@@ -1,0 +1,60 @@
+/* Portfolio container */
+.portfolio-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 20px;
+  }
+  
+  /* Individual project card */
+  .project-card {
+    border: 1px solid #ced4da;
+    border-radius: 0.25rem;
+    padding: 20px;
+  }
+  
+  .project-card img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .project-card h3 {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .project-card p {
+    color: #6c757d;
+    margin-bottom: 20px;
+  }
+  
+  .project-card a {
+    display: inline-block;
+    margin-right: 10px;
+    text-decoration: none;
+    color: #fff;
+    padding: 8px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .project-card .demo-link {
+    background-color: #007bff;
+    border: 1px solid #007bff;
+  }
+  
+  .project-card .demo-link:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+  }
+  
+  .project-card .github-link {
+    background-color: #6c757d;
+    border: 1px solid #6c757d;
+  }
+  
+  .project-card .github-link:hover {
+    background-color: #5a6268;
+    border-color: #545b62;
+  }
+  
