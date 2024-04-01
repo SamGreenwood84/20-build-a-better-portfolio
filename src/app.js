@@ -4,10 +4,12 @@ import AboutMe from './components/aboutMe/aboutMe'; // Import AboutMe component
 import Contact from './components/contact/contact'; // Import Contact component
 import ContactForm from './components/contactForm/contactForm'; // Import ContactForm component
 import Footer from './components/footer/footer'; // Import Footer component
+import Header from './components/header/header'; // Import Header component
 
 const App = () => {
   return (
     <div className="App">
+      <Header />
       <AboutMe />
       <Contact />
       <ContactForm />

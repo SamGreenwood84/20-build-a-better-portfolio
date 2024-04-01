@@ -1,0 +1,23 @@
+.nav {
+    margin-top: 20px;
+  }
+  
+  .nav-links {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .nav-links li {
+    margin: 0 10px;
+  }
+  
+  .nav-links a {
+    text-decoration: none;
+    color: white;
+  }
+  
+  .nav-links a:hover {
+    text-decoration: underline;
+  }
+  
