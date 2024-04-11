@@ -1,0 +1,64 @@
+/* Reset default margin and padding */
+body, h1, h2, h3, h4, h5, h6, p, ul, ol, li {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Set global font family and size */
+  body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+  }
+  
+  /* Set background color and text color */
+  body {
+    background-color: #000; /* Black background */
+    color: #fff; /* White text */
+  }
+  
+  /* Set link styles */
+  a {
+    color: #00ff00; /* Neon green */
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Header styles */
+  .header {
+    background-color: #00ff00; /* Neon green */
+    padding: 20px;
+  }
+  
+  .header-title {
+    color: #ff00ff; /* Neon pink */
+  }
+  
+  /* Navigation styles */
+  .nav {
+    background-color: #ff00ff; /* Neon pink */
+    padding: 10px;
+  }
+  
+  .nav-links li {
+    display: inline-block;
+    margin-right: 20px;
+  }
+  
+  .nav-links li a {
+    color: #00ff00; /* Neon green */
+  }
+  
+  /* Footer styles */
+  .footer {
+    background-color: #00ffff; /* Neon blue */
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .footer a {
+    color: #ff00ff; /* Neon pink */
+  }
+  
