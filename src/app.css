@@ -1,0 +1,96 @@
+/* Set black background */
+body {
+    background-color: #000;
+    color: #fff; /* Set text color to white */
+  }
+  
+  /* Header styles */
+  .header {
+    background-color: #00ff00; /* Neon green */
+    padding: 20px;
+  }
+  
+  .header-title {
+    color: #ff00ff; /* Neon pink */
+  }
+  
+  /* Navigation styles */
+  .nav {
+    background-color: #ff00ff; /* Neon pink */
+    padding: 10px;
+  }
+  
+  .nav-links li {
+    display: inline-block;
+    margin-right: 20px;
+  }
+  
+  .nav-links li a {
+    color: #00ff00; /* Neon green */
+  }
+  
+  /* About Me section styles */
+  .about-me {
+    padding: 50px 20px;
+  }
+  
+  .about-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+  
+  .about-content img {
+    width: 200px; /* Adjust image size as needed */
+    border-radius: 50%; /* Make image round */
+    margin-bottom: 20px;
+  }
+  
+  /* Portfolio section styles */
+  .portfolio {
+    padding: 50px 20px;
+  }
+  
+  .project {
+    background-color: #ff00ff; /* Neon pink */
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .project-title {
+    color: #00ff00; /* Neon green */
+  }
+  
+  .project-description {
+    color: #00ffff; /* Neon blue */
+  }
+  
+  /* Contact section styles */
+  .contact {
+    padding: 50px 20px;
+  }
+  
+  .contact-info {
+    margin-top: 20px;
+  }
+  
+  .contact-info li {
+    margin-bottom: 10px;
+  }
+  
+  .contact-info a {
+    color: #00ff00; /* Neon green */
+  }
+  
+  /* Footer styles */
+  .footer {
+    background-color: #00ffff; /* Neon blue */
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .footer a {
+    color: #ff00ff; /* Neon pink */
+  }
+  
