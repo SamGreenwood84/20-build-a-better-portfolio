@@ -10,20 +10,26 @@ import Resume from './resume/SamanthaGreenwoodResume'; // Import Resume componen
 
 const projects = [
   {
-    title: "Project 1",
-    image: "path/to/image1.jpg",
-    description: "Description of project 1",
-    demoLink: "link/to/demo1",
-    githubLink: "link/to/github1"
+    title: "christmas-movie-generator",
+    image: "public/img/cmg.png",
+    description: "Taking the guess work out of your holidays one movie at a time!",
+    demoLink: "https://samgreenwood84.github.io/christmas-movie-generator/",
+    githubLink: "https://github.com/SamGreenwood84/christmas-movie-generator.git"
   },
   {
     title: "Project 2",
-    image: "path/to/image2.jpg",
-    description: "Description of project 2",
-    demoLink: "link/to/demo2",
-    githubLink: "link/to/github2"
+    image: "public\img\dnd.png",
+    description: "Coding and fantasy merge in an epic learning adventure.",
+    demoLink: "link",
+    githubLink: "https://github.com/Maximilian93B/DungeonsAndDevs.git"
   },
-  // Add more projects as needed
+  {
+    title: "festivalfriends",
+    image: "public\img\ff.png",
+    description: "Social Network for Festival Enthusiasts",
+    demoLink: "link",
+    githubLink: "https://github.com/SamGreenwood84/festivalfriends.git"
+  },
 ];
 
 const App = () => {
